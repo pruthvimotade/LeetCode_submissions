@@ -13,6 +13,7 @@ Just uploading my leetcode solutions here
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,6 +24,7 @@ Just uploading my leetcode solutions here
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +46,8 @@ Just uploading my leetcode solutions here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
