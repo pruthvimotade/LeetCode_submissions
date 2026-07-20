@@ -42,6 +42,7 @@ Just uploading my leetcode solutions here
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0189-rotate-array/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1260-shift-2d-grid](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1260-shift-2d-grid/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,4 +83,12 @@ Just uploading my leetcode solutions here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1260-shift-2d-grid/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1260-shift-2d-grid/) | Easy |
 <!---LeetCode Topics End-->
