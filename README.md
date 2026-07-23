@@ -7,6 +7,7 @@ Just uploading my leetcode solutions here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0189-rotate-array/) | Medium |
+| [0754-reach-a-number](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0754-reach-a-number/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -71,6 +72,7 @@ Just uploading my leetcode solutions here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0754-reach-a-number](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0754-reach-a-number/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
