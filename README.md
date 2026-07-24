@@ -41,6 +41,7 @@ Just uploading my leetcode solutions here
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0189-rotate-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -121,4 +122,8 @@ Just uploading my leetcode solutions here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0175-combine-two-tables/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
