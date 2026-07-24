@@ -117,4 +117,8 @@ Just uploading my leetcode solutions here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0049-group-anagrams/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
