@@ -18,6 +18,7 @@ Just uploading my leetcode solutions here
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0226-invert-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -27,6 +28,7 @@ Just uploading my leetcode solutions here
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +38,7 @@ Just uploading my leetcode solutions here
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0226-invert-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Array
@@ -72,6 +75,7 @@ Just uploading my leetcode solutions here
 | [0104-maximum-depth-of-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Search
