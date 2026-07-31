@@ -24,6 +24,7 @@ Just uploading my leetcode solutions here
 | [0226-invert-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ Just uploading my leetcode solutions here
 | [0226-invert-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +61,7 @@ Just uploading my leetcode solutions here
 | [0209-minimum-size-subarray-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1260-shift-2d-grid](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1260-shift-2d-grid/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -110,6 +113,7 @@ Just uploading my leetcode solutions here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -160,4 +164,9 @@ Just uploading my leetcode solutions here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
