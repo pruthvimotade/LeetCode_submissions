@@ -26,6 +26,7 @@ Just uploading my leetcode solutions here
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@ Just uploading my leetcode solutions here
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -100,6 +102,7 @@ Just uploading my leetcode solutions here
 | [0226-invert-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +174,7 @@ Just uploading my leetcode solutions here
 | [0098-validate-binary-search-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
