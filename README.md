@@ -23,6 +23,7 @@ Just uploading my leetcode solutions here
 | [0199-binary-tree-right-side-view](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -52,6 +53,7 @@ Just uploading my leetcode solutions here
 | [0199-binary-tree-right-side-view](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -102,6 +104,7 @@ Just uploading my leetcode solutions here
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -175,6 +178,7 @@ Just uploading my leetcode solutions here
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0938-range-sum-of-bst/) | Easy |
