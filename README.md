@@ -6,6 +6,7 @@ Just uploading my leetcode solutions here
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0509-fibonacci-number/) | Easy |
 | [0754-reach-a-number](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0754-reach-a-number/) | Medium |
@@ -199,6 +200,7 @@ Just uploading my leetcode solutions here
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -209,5 +211,6 @@ Just uploading my leetcode solutions here
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
