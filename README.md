@@ -79,6 +79,7 @@ Just uploading my leetcode solutions here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0189-rotate-array/) | Medium |
+| [0541-reverse-string-ii](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Greedy
@@ -155,6 +156,7 @@ Just uploading my leetcode solutions here
 | [0003-longest-substring-without-repeating-characters](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0541-reverse-string-ii](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0541-reverse-string-ii/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
