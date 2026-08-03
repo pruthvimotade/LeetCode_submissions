@@ -10,8 +10,6 @@ class Solution {
     public int minCost(int i, int[] cost) {
         if (i >= cost.length) return 0;
         if(dp[i]!=-1) return dp[i];
-        int ans = cost[i] + Math.min(minCost(i + 1, cost), minCost(i + 2, cost));
-        dp[i]=ans;
-        return ans;
+        return dp[i] = cost[i] + Math.min(minCost(i + 1, cost), minCost(i + 2,cost));
     }
 }
