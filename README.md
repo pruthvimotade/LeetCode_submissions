@@ -7,6 +7,7 @@ Just uploading my leetcode solutions here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0189-rotate-array/) | Medium |
+| [0509-fibonacci-number](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0509-fibonacci-number/) | Easy |
 | [0754-reach-a-number](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0754-reach-a-number/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Tree
@@ -193,4 +194,16 @@ Just uploading my leetcode solutions here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
