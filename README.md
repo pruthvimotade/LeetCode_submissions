@@ -11,6 +11,7 @@ Just uploading my leetcode solutions here
 | [0189-rotate-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0509-fibonacci-number/) | Easy |
 | [0754-reach-a-number](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0754-reach-a-number/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
