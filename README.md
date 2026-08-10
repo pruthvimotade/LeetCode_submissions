@@ -11,6 +11,7 @@ Just uploading my leetcode solutions here
 | [0189-rotate-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0509-fibonacci-number/) | Easy |
 | [0754-reach-a-number](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0754-reach-a-number/) | Medium |
+| [0877-stone-game](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Tree
@@ -78,6 +79,7 @@ Just uploading my leetcode solutions here
 | [0198-house-robber](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0877-stone-game](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -210,6 +212,7 @@ Just uploading my leetcode solutions here
 | [0198-house-robber](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0877-stone-game](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0877-stone-game/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,4 +226,16 @@ Just uploading my leetcode solutions here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0062-unique-paths/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
