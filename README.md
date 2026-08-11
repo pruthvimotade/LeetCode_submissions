@@ -70,6 +70,7 @@ Just uploading my leetcode solutions here
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0031-next-permutation/) | Medium |
 | [0046-permutations](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0064-minimum-path-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0064-minimum-path-sum/) | Medium |
@@ -88,6 +89,7 @@ Just uploading my leetcode solutions here
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0031-next-permutation/) | Medium |
 | [0189-rotate-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0189-rotate-array/) | Medium |
 | [0541-reverse-string-ii](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
