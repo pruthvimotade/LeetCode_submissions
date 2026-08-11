@@ -84,6 +84,7 @@ Just uploading my leetcode solutions here
 | [0945-minimum-increment-to-make-array-unique](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1260-shift-2d-grid](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1260-shift-2d-grid/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@ Just uploading my leetcode solutions here
 | [0049-group-anagrams](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +177,7 @@ Just uploading my leetcode solutions here
 | [0049-group-anagrams](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
