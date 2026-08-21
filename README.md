@@ -70,6 +70,7 @@ Just uploading my leetcode solutions here
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0001-two-sum/) | Easy |
 | [0031-next-permutation](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0031-next-permutation/) | Medium |
 | [0046-permutations](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0049-group-anagrams/) | Medium |
@@ -177,6 +178,7 @@ Just uploading my leetcode solutions here
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
