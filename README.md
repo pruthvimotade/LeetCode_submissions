@@ -78,6 +78,7 @@ Just uploading my leetcode solutions here
 | [0064-minimum-path-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -223,6 +224,7 @@ Just uploading my leetcode solutions here
 | [0062-unique-paths](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0070-climbing-stairs/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
