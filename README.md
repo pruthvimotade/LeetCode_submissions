@@ -46,6 +46,7 @@ Just uploading my leetcode solutions here
 | [0104-maximum-depth-of-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0322-coin-change/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@ Just uploading my leetcode solutions here
 | [0198-house-robber](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0322-coin-change](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0322-coin-change/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0877-stone-game/) | Medium |
@@ -228,6 +230,7 @@ Just uploading my leetcode solutions here
 | [0070-climbing-stairs](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0877-stone-game/) | Medium |
@@ -256,4 +259,12 @@ Just uploading my leetcode solutions here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0877-stone-game/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
