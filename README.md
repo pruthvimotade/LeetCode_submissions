@@ -83,6 +83,7 @@ Just uploading my leetcode solutions here
 | [0198-house-robber](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
@@ -187,6 +188,7 @@ Just uploading my leetcode solutions here
 | [0049-group-anagrams](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Database
