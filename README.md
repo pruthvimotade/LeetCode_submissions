@@ -198,6 +198,7 @@ Just uploading my leetcode solutions here
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0175-combine-two-tables/) | Easy |
 | [0182-duplicate-emails](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0182-duplicate-emails/) | Easy |
+| [1075-project-employees-i](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1075-project-employees-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
