@@ -98,6 +98,7 @@ Just uploading my leetcode solutions here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0031-next-permutation/) | Medium |
+| [0141-linked-list-cycle](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0189-rotate-array/) | Medium |
 | [0541-reverse-string-ii](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
@@ -148,6 +149,7 @@ Just uploading my leetcode solutions here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0141-linked-list-cycle/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +193,7 @@ Just uploading my leetcode solutions here
 | [0003-longest-substring-without-repeating-characters](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0141-linked-list-cycle](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -271,4 +274,8 @@ Just uploading my leetcode solutions here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0322-coin-change/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
