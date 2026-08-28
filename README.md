@@ -113,6 +113,7 @@ Just uploading my leetcode solutions here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0049-group-anagrams/) | Medium |
+| [0242-valid-anagram](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0881-boats-to-save-people](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -182,6 +183,7 @@ Just uploading my leetcode solutions here
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0049-group-anagrams/) | Medium |
+| [0242-valid-anagram](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0541-reverse-string-ii](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0541-reverse-string-ii/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
@@ -194,6 +196,7 @@ Just uploading my leetcode solutions here
 | [0049-group-anagrams](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0242-valid-anagram](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
