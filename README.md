@@ -86,6 +86,7 @@ Just uploading my leetcode solutions here
 | [0189-rotate-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0229-majority-element-ii](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0322-coin-change](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0322-coin-change/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -116,6 +117,7 @@ Just uploading my leetcode solutions here
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0881-boats-to-save-people](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
@@ -124,6 +126,7 @@ Just uploading my leetcode solutions here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -201,6 +204,7 @@ Just uploading my leetcode solutions here
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -293,4 +297,5 @@ Just uploading my leetcode solutions here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
