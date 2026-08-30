@@ -82,6 +82,7 @@ Just uploading my leetcode solutions here
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0169-majority-element](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -114,6 +115,7 @@ Just uploading my leetcode solutions here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0881-boats-to-save-people](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
@@ -121,6 +123,7 @@ Just uploading my leetcode solutions here
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0169-majority-element/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -197,6 +200,7 @@ Just uploading my leetcode solutions here
 | [0049-group-anagrams](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -219,6 +223,7 @@ Just uploading my leetcode solutions here
 | [0053-maximum-subarray](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0169-majority-element](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0169-majority-element/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -284,4 +289,8 @@ Just uploading my leetcode solutions here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0141-linked-list-cycle/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
