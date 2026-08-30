@@ -76,6 +76,7 @@ Just uploading my leetcode solutions here
 | [0031-next-permutation](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0031-next-permutation/) | Medium |
 | [0046-permutations](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -215,6 +216,7 @@ Just uploading my leetcode solutions here
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Binary Search Tree
@@ -235,6 +237,7 @@ Just uploading my leetcode solutions here
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0070-climbing-stairs/) | Easy |
