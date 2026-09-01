@@ -217,6 +217,7 @@ Just uploading my leetcode solutions here
 | [0181-employees-earning-more-than-their-managers](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0182-duplicate-emails/) | Easy |
 | [1075-project-employees-i](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1075-project-employees-i/) | Easy |
+| [1193-monthly-transactions-i](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
