@@ -6,6 +6,7 @@ Just uploading my leetcode solutions here
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0007-reverse-integer/) | Medium |
 | [0062-unique-paths](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0189-rotate-array/) | Medium |
