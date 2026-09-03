@@ -101,6 +101,7 @@ Just uploading my leetcode solutions here
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0031-next-permutation/) | Medium |
 | [0141-linked-list-cycle](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0141-linked-list-cycle/) | Easy |
@@ -192,6 +193,7 @@ Just uploading my leetcode solutions here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0049-group-anagrams](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -252,6 +254,7 @@ Just uploading my leetcode solutions here
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0064-minimum-path-sum/) | Medium |
@@ -304,4 +307,8 @@ Just uploading my leetcode solutions here
 | ------- | ------- |
 | [0169-majority-element](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0229-majority-element-ii/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
