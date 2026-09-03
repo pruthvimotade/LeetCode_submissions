@@ -73,6 +73,7 @@ Just uploading my leetcode solutions here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0031-next-permutation/) | Medium |
 | [0046-permutations](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0049-group-anagrams/) | Medium |
@@ -100,6 +101,7 @@ Just uploading my leetcode solutions here
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0031-next-permutation/) | Medium |
 | [0141-linked-list-cycle](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0189-rotate-array/) | Medium |
@@ -115,6 +117,7 @@ Just uploading my leetcode solutions here
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/pruthvimotade/LeetCode_submissions/tree/main/0229-majority-element-ii/) | Medium |
